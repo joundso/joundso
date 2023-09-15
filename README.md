@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <a href="https://ubuntu.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/512px-Ubuntu-logo-2022.svg.png" alt="ubuntu" height="45"/></a>
 <a href="https://www.project-redcap.org/"><img src="https://studycenter.charite.de/fileadmin/_processed_/a/4/csm_redcap-logo-large_74185029d6.png" alt="redcap" height="45"/></a>
 <a href="https://www.vmware.com/de.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/512px-Vmware.svg.png" alt="vmware" height="45"/></a>
+<a href="https://www.proxmox.com"><img src="https://www.proxmox.com/images/proxmox/Proxmox_logo_standard_hex_400px.png" alt="proxmox" height="45"/></a>
 <a href="https://kubernetes.io"><img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="vmware" height="45"/></a>
 <a href="https://www.atlassian.com/de/software/jira"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/798px-Jira_%28Software%29_logo.svg.png" alt="jira" height="45"/></a>
 <a href="https://www.atlassian.com/software/confluence"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/512px-Atlassian_Confluence_2017_logo.svg.png" alt="confluence" height="45"/></a>
