@@ -2,7 +2,7 @@
 
 #### Scientist and IT Engineer in Erlangen, Germany
 
-I am a Scientist and software engineer currently living in Erlangen, Germany. My interests range from technology to travel. I am also interested in programming and education.
+I am a scientist and software engineer currently living in Erlangen, Germany. My interests range from healthcare technology to travel. I am also interested in programming and education.
 
 <!--
 **joundso/joundso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
