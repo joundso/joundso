@@ -2,7 +2,7 @@
 
 #### Scientist and IT Engineer in Erlangen, Germany
 
-I am a Scientist and software engineer currently living in Erlangen, Germany. My interests range from technology to travel. I am also interested in programming and education.
+I am a scientist and software engineer currently living in Erlangen, Germany. My interests range from technology and healthcare to travel. I am also interested in programming and education.
 
 <!--
 **joundso/joundso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- :sunflower: Interests: Medical Informatics | Coding | IT Infrastructure | R | Family & Peoply | Talks | Travel | Calvin & Hobbes
+- :sunflower: Interests: Medical Informatics | Coding | IT Infrastructure | R | Family & People | Talks | Travel | Calvin & Hobbes
 - :building_construction: Author and/or maintainer of several R packages, including [DQAstats](https://CRAN.R-project.org/package=DQAstats), [DQAgui](https://CRAN.R-project.org/package=DQAgui), [DIZtools](https://CRAN.R-project.org/package=DIZtools), [requiRements](https://CRAN.R-project.org/package=requiRements), and [more](./r_packages.md)
 - :briefcase: Work: [Data Scientist](https://www.imi.med.fau.de/person/jonathan-mang/) and [IT consultant & service provider](https://final-itb.netlify.app)
 - :mortar_board: Education: Ph.D. in Medical Informatics, Publications: [ORCiD](https://orcid.org/0000-0003-0518-4710)
