@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <a href="https://www.java.com"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/243px-Java-Logo.svg.png" alt="java" height="45"/></a>
 <a href="https://www.rstudio.com/"><img src="https://www.rstudio.com/assets/img/logo.svg" alt="rstudio" height="45"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height="45"/></a>
-<!-- <a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="45"/></a> -->
+<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="45"/></a>
 <a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png" alt="docker" height="45"/></a>
-<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" alt="bash" height="45"/></a>
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" height="45"/></a>
 <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="45"/></a>
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="git" height="45"/></a>
 <a href="https://about.gitlab.com/"><img src="https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/images/gitlab_logo.png" alt="gitlab" height="45"/></a>
