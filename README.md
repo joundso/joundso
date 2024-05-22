@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 <a href="https://www.atlassian.com/software/confluence"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/512px-Atlassian_Confluence_2017_logo.svg.png" alt="confluence" height="45"/></a>
 </div>
 
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,docker,git,github,grafana,idea,java,kafka,kubernetes,latex,linux,md,matlab,mysql,netlify,nginx,postgres,prometheus,py,r,raspberrypi,regex,stackoverflow,ubuntu,vscode" />
+</p> -->
+
 ## GitHub stats
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joundso&show_icons=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&hide_title=true)
