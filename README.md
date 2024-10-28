@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R" height="45"/></a>
 <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" height="45"/></a>
 <a href="https://www.java.com"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/243px-Java-Logo.svg.png" alt="java" height="45"/></a>
-<a href="https://www.rstudio.com/"><img src="https://www.rstudio.com/assets/img/logo.svg" alt="rstudio" height="45"/></a>
+<a href="https://posit.co/download/rstudio-desktop/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/640px-RStudio_logo_flat.svg.png" alt="rstudio" height="45"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" height="45"/></a>
 <a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="45"/></a>
 <a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png" alt="docker" height="45"/></a>
