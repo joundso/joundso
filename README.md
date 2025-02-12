@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org/"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" height="45"/></a>
 <a href="https://www.latex-project.org/"><img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" height="45"/></a>
 <a href="https://ubuntu.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/512px-Ubuntu-logo-2022.svg.png" alt="ubuntu" height="45"/></a>
-<a href="https://www.project-redcap.org/"><img src="https://studycenter.charite.de/fileadmin/_processed_/a/4/csm_redcap-logo-large_74185029d6.png" alt="redcap" height="45"/></a>
-<a href="https://www.vmware.com/de.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/512px-Vmware.svg.png" alt="vmware" height="45"/></a>
+<a href="https://www.project-redcap.org/"><img src="https://elearning.swisstph.ch/pluginfile.php/4278/coursecat/description/logo_redcap-plain.png" alt="redcap" height="45"/></a>
+<a href="https://www.vmware.com/de.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VMware_logo.svg/800px-VMware_logo.svg.png" alt="vmware" height="45"/></a>
 <a href="https://www.proxmox.com"><img src="https://www.proxmox.com/images/proxmox/Proxmox_logo_standard_hex_400px.png" alt="proxmox" height="45"/></a>
 <a href="https://kubernetes.io"><img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="vmware" height="45"/></a>
 <a href="https://www.atlassian.com/de/software/jira"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/798px-Jira_%28Software%29_logo.svg.png" alt="jira" height="45"/></a>
