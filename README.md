@@ -1,8 +1,8 @@
 ### Jonathan Mang
 
-#### Medical Data Scientist and IT Engineer in Erlangen, Germany
+#### Scientist and IT Engineer in Erlangen, Germany
 
-I am a postdoctoral researcher and software engineer currently living in Erlangen, Germany. My interests range from technology and healthcare to travel. I am also interested in programming and education.
+I am a scientist and software engineer currently living in Erlangen, Germany. My interests range from technology and healthcare to travel. I am also interested in programming and education.
 
 <!--
 **joundso/joundso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,24 +21,18 @@ Here are some ideas to get you started:
 
 ## About me
 
-- :sunflower: Interests: Medical Informatics | Coding | IT Infrastructure | R | Machine Learning | Family & People | Talks | Travel | Calvin & Hobbes
+- :sunflower: Interests: Medical Informatics | Coding | IT Infrastructure | R | Family & People | Talks | Travel | Calvin & Hobbes
 - :building_construction: Author and/or maintainer of several R packages, including [DQAstats](https://CRAN.R-project.org/package=DQAstats), [DQAgui](https://CRAN.R-project.org/package=DQAgui), [DIZtools](https://CRAN.R-project.org/package=DIZtools), [requiRements](https://CRAN.R-project.org/package=requiRements), and [more](./r_packages.md)
-- :briefcase: Work: [Postdoc / Medical Data Scientist](https://www.imi.med.fau.de/person/jonathan-mang/) at FAU & Uniklinikum Erlangen; [IT consultant & service provider](https://final-itb.netlify.app)
-- :mortar_board: Education: Ph.D. in Medical Informatics; publications: [ORCiD](https://orcid.org/0000-0003-0518-4710)
+- :briefcase: Work: [Data Scientist](https://www.imi.med.fau.de/person/jonathan-mang/) and [IT consultant & service provider](https://final-itb.netlify.app)
+- :mortar_board: Education: Ph.D. in Medical Informatics, Publications: [ORCiD](https://orcid.org/0000-0003-0518-4710)
 - :mailbox: How to reach me: PM me via [LinkedIn](https://www.linkedin.com/in/jonathan-mang/)
-
-## Selected projects
-
-- [DQAstats](https://github.com/miracum/dqa-dqastats) / [DQAgui](https://github.com/miracum/dqa-dqagui) — data quality assessment for electronic health records
-- [repub](https://github.com/joundso/repub) — template for reproducible publishing with Quarto
-- [requiRements](https://github.com/joundso/requirements) — install R packages from a requirements file
 
 ## Technologies / Tools
 <div>
 <p align="center">
 <a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R" height="45"/></a>
 <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" height="45"/></a>
-<a href="https://www.java.com/en/"><img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="java" height="45"/></a>
+<a href="https://www.java.com"><img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="java" height="45"/></a>
 <a href="https://posit.co/products/open-source/rstudio/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="rstudio" height="45"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" height="45"/></a>
 <a href="https://jupyter.org/"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" height="45"/></a>
@@ -59,9 +53,8 @@ Here are some ideas to get you started:
 <a href="https://www.vmware.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" alt="vmware" height="45"/></a>
 <a href="https://www.proxmox.com"><img src="https://www.proxmox.com/images/proxmox/Proxmox_logo_standard_hex_400px.png" alt="proxmox" height="45"/></a>
 <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/horizontal/color/kubernetes-horizontal-color.svg" alt="kubernetes" height="45"/></a>
-<a href="https://www.atlassian.com/software/jira"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" alt="jira" height="45"/></a>
+<a href="https://www.atlassian.com/de/software/jira"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" alt="jira" height="45"/></a>
 <a href="https://www.atlassian.com/software/confluence"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg" alt="confluence" height="45"/></a>
-</p>
 </div>
 
 <!-- <p align="center">
